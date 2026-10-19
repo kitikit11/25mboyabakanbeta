@@ -1,0 +1,6 @@
+{
+  "name": "МБОУ СОШ №25 г. Абакан",
+  "description": "Официальный интерактивный портал МБОУ СОШ №25 города Абакана в минималистичном стиле с расписанием, секциями и информацией для родителей.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
